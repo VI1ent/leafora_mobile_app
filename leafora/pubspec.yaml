@@ -9,6 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_svg: ^2.3.0
 
 dev_dependencies:
   flutter_test:
@@ -17,3 +18,15 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/Welcome_screen1.jpg
+    - assets/welcome_sc1.svg
+    - assets/WSK.png
+    - assets/background1.svg
+    - assets/background2.svg
+    - assets/background3.svg
+    - assets/plant1.svg
+    - assets/
+    - assets/
+    - assets/
+    - assets/
